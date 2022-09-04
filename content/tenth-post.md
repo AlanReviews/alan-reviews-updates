@@ -1,24 +1,14 @@
 +++
-title = "Tenth post"
-date = 2019-01-10
+title = "Veloren Review"
+date = 2022-09-03
 
 [taxonomies]
-categories = ["Even"]
-tags = ["placeholder posts", "tag2"]
+categories = ["Updates"]
+tags = ["veloren", "games", "rust"]
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
-in culpa qui officia deserunt mollit anim id est laborum.
+I am planning to review Veloren for a review request. I am planning to play through the game and look into the Rust programming language.
 
 <!-- more -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
-in culpa qui officia deserunt mollit anim id est laborum.
+So far, I managed to gather some game footage. Currently, I am writing a script and performing research on Veloren and Rust. I am learning how Rust is used in game development.

@@ -1,24 +1,16 @@
 +++
-title = "Eleventh post"
-date = 2019-01-11
+title = "Plan for LEGO Star Wars The Complete Saga Review"
+date = 2022-09-03
 
 [taxonomies]
-categories = ["Odd"]
-tags = ["placeholder posts", "tag1"]
+categories = ["Updates"]
+tags = ["lego", "games", "star wars", "tt games"]
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
-in culpa qui officia deserunt mollit anim id est laborum.
-
+I will do a review on LEGO Star Wars The Complete Saga. I wishlisted the PC version on Steam. I have a copy of the Xbox 360 version.
 <!-- more -->
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
-in culpa qui officia deserunt mollit anim id est laborum.
+Here is my plan for the video review:
+1. I will write a script on LEGO Star Wars The Complete Saga and rewatch the Star Wars films
+2. I will play LEGO Star Wars The Complete Saga. Hopefully, I have a friend to help me out with the coop sections.
+3. I will edit the video
+4. I will release it. I do not have the date of when the video will be released. I think there will be a lot to cover in this video.

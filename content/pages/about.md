@@ -4,6 +4,8 @@ path = "about"
 template = "about.html"
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hello, I am Alan. I run my YouTube channel The Alan Reviews. I review LEGOs, video games, and technologies. In addition, I post vlogs, slideshows, and gameplay clips. All my videos are safe for work and kid-friendly.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Since I was a child, I have an interest in LEGOS, video games, and technologies. After watching review videos on YouTube, I was inspired to create my own channel dedicated to reviews. I developed this website.
+
+I like playing all kinds of games. I am interested in trying out new things.

@@ -23,12 +23,12 @@ clean_blog_social = [
 
 # The theme author info: you!
 [author]
-name = "Dave Tucker"
+name = "Alan Reviews"
 homepage = "https://dtucker.co.uk"
 
 # If this is porting a theme from another static site engine, provide
 # the info of the original author here
 [original]
-author =  "Start Bootstrap"
+author =  "Dave Tucker"
 homepage = "https://startbootstrap.com/themes/clean-blog/"
 repo = "https://github.com/BlackrockDigital/startbootstrap-clean-blog"
