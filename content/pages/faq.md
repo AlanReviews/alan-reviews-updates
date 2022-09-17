@@ -54,6 +54,16 @@ FOR REQUESTS ONLY: **First**, check if I already added your video request to my 
 
 Feel free to post your improvement suggestions or video requests in the comments. In addition, post your suggestions in my suggestions channel on my [Discord server](https://discord.gg/K9BdChUCMN).
 
+# What are my subscriber milestones?
+Here is what I plan when I get a certain amount of subscribers on a YouTube channel
+
+| Subscribers | Milestone |
+| --- | --- |
+| 1000 | I will do a Q&A video |
+| 1500 | I will do a setup tour video |
+
+I am unsure what other milestones I will do when I get more subscribers.
+
 # Why were there years of inactivity?
 I was busy with work, school, and life. I did not have the time or energy to make new videos.
 
