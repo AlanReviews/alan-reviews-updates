@@ -8,13 +8,13 @@ Here are my frequently asked questions.
 # What do I review?
 I *only* review LEGOs, technologies, and video games on my YouTube channel. In addition, I wrote a few reviews on places I visited on Google Maps.
 
-If the game achieves a review score of 6 or higher, I will review the mods. Mods should not fix games or attempt to manipulate my score system.
+If the game achieves a review score of 6 or higher, I will review the mods. Mods enhance and expand games. Mods should not fix games or attempt to manipulate my score system. Mods should not make games better.
 
 I will use mods if I need to change the game settings such as changing the field of view or getting better textures.
 
-I will review expansion packs and DLC content if the game stands on its own (achieves a score of 6 or higher). The only exception is standalone expansion packs.
+I will review expansion packs and DLC content if the game stands on its own and there is something to review (achieves a score of 6 or higher). The only exception is standalone expansion packs.
 
-I **do not** review M-rated games. My channel is safe for work. I may add footage from M-rated games for demonstration.
+I **do not** review M-rated games. My channel is safe for work.
 
 # What is the 10 rating scale about?
 The rating system measures my enjoyment and quality of a product. Here is my rating system in a table format
@@ -27,9 +27,9 @@ The rating system measures my enjoyment and quality of a product. Here is my rat
 | 7 | Fine, good |
 | 6 | Ok, average |
 | 5 | Mediocre |
-| 4 | Bad |
-| 3 | Terrible |
-| 2 | Awful |
+| 4 | Underwhelming |
+| 3 | Bad |
+| 2 | Terrible |
 | 1 | Boring |
 | 0 | Loath, despise. I hope no video review gets this score. Has no redeeeming qualities. |
 
@@ -50,7 +50,7 @@ There are some LEGO sets, video games, and technologies that I refuse to review.
 If you break the rules, you will be warned. Then, muted, or hidden for repeated offences. I will not do hidden user appeals.
 
 # I have a video suggestion or request
-FOR REQUESTS ONLY: **First**, check if I already added your video request to my [Review and Requests List.](https://docs.google.com/spreadsheets/d/e/2PACX-1vSWIyo2ktAkKEQqLVwAdy3DvQLO9YzbPntU65-13nfNvZa-d5ohtd5lHEiijEz_erW8qeKwlS7wuoYW/pubhtml) If your request is not there, feel free to let me know in a YouTube comment or in my Discord server.
+FOR REVIEW AND IDEA REQUESTS ONLY: **First**, check if I already added your video request to my [Review and Requests List.](https://docs.google.com/spreadsheets/d/e/2PACX-1vSWIyo2ktAkKEQqLVwAdy3DvQLO9YzbPntU65-13nfNvZa-d5ohtd5lHEiijEz_erW8qeKwlS7wuoYW/pubhtml) If your request is not there, feel free to let me know in a YouTube comment or in my Discord server.
 
 Feel free to post your improvement suggestions or video requests in the comments. In addition, post your suggestions in my suggestions channel on my [Discord server](https://discord.gg/K9BdChUCMN).
 
