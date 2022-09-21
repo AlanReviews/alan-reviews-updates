@@ -75,7 +75,7 @@ My old gaming PC
 - Operating System: Windows 10
 
 My peripherals
-- Mouse: SteelSeries Rival Optical Mouse
-- Keyboard: Corsair K70 Lux
+- Mouse: SteelSeries Rival Optical Mouse, a Microsoft USB mouse, a PS/2 optical mouse
+- Keyboard: Corsair K70 Lux, various keyboards
 - Microphone: Blue Snowball iCE
 - Headset: Microsoft Lifechat Headset
