@@ -24,4 +24,5 @@ clean_blog_social = [
     {url = "https://discord.gg/K9BdChUCMN", icon="fab fa-discord"},
     {url = "https://github.com/alanreviews", icon="fab fa-github"},
     {url = "https://alanreviews.github.io/", icon="fa fa-globe"},
+    {url = "https://steamcommunity.com/id/alanreviews/", icon="fab fa-steam"},
 ]

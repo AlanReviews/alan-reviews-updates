@@ -4,7 +4,7 @@ path = "faq"
 date = "2022-08-31"
 template = "page.html"
 +++
-Here are my frequently asked questions.
+Here are my frequently asked questions. These questions address everything I do on my channel. I will add more questions when I get more FAQs. These questions will never be answered in a questions and answer video.
 # What do I review?
 I *only* review LEGOs, technologies, and video games on my YouTube channel. In addition, I wrote a few reviews on places I visited on Google Maps.
 
@@ -21,7 +21,7 @@ The rating system measures my enjoyment and quality of a product. Here is my rat
 
 | Rating | Meaning |
 | --- | --- |
-| 10 | Perfect, Outstanding. Has few or no negative qualities |
+| 10 | Perfect, Outstanding. A must have. Has few or no negative qualities |
 | 9 | Amazing |
 | 8 | Great |
 | 7 | Fine, good |
@@ -38,7 +38,9 @@ The rating system measures my enjoyment and quality of a product. Here is my rat
 First, I have to perform research to see if there is something I can talk about in the product. If there is nothing to talk about, I will not make a review.
 For LEGOs, tech, and video games, I test the product to see if there are things I can talk about it. Once I found some talking points during the test, I will accept the product for review. If I cannot find any talking points, I  will not make a video review. For video games, I test them on my computer to ensure I can run the game at 1080p and 30 to 60 frames per second or better.
 
-There are some LEGO sets, video games, and technologies that I refuse to review. I explained why under the Notes section in my [Review and Requests List.](https://docs.google.com/spreadsheets/d/e/2PACX-1vSWIyo2ktAkKEQqLVwAdy3DvQLO9YzbPntU65-13nfNvZa-d5ohtd5lHEiijEz_erW8qeKwlS7wuoYW/pubhtml)
+There are some LEGO sets, video games, and technologies that I refuse to review. I explained why under the denial reason section in my [Review and Requests List.](https://docs.google.com/spreadsheets/d/e/2PACX-1vSWIyo2ktAkKEQqLVwAdy3DvQLO9YzbPntU65-13nfNvZa-d5ohtd5lHEiijEz_erW8qeKwlS7wuoYW/pubhtml)
+
+For a LEGO set, video game, or technology to get a maybe, I have a hesitant feeling to make a video review on it.
 
 # Comment Rules
 1. Be respectful
