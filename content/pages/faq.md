@@ -2,19 +2,17 @@
 title = "FAQ"
 path = "faq"
 date = "2022-08-31"
-template = "page.html"
+template = "faq.html"
 +++
 Here are my frequently asked questions. These questions address everything I do on my channel. I will add more questions when I get more FAQs. These questions will never be answered in a questions and answer video.
 # What do I review?
-I *only* review LEGOs, technologies, and video games on my YouTube channel. In addition, I wrote a few reviews on places I visited on Google Maps.
+I review LEGOs, technologies, and video games on my YouTube channel. In addition, I wrote a few reviews on places I visited on Google Maps.
 
 If the game achieves a review score of 6 or higher, I will review the mods. Mods enhance and expand games. Mods should not fix games or attempt to manipulate my score system. Mods should not make games better.
 
 I will use mods if I need to change the game settings such as changing the field of view or getting better textures.
 
 I will review expansion packs and DLC content if the game stands on its own and there is something to review (achieves a score of 6 or higher). The only exception is standalone expansion packs.
-
-I **do not** review M-rated games. My channel is safe for work.
 
 # What is the 10 rating scale about?
 The rating system measures my enjoyment and quality of a product. Here is my rating system in a table format
@@ -64,7 +62,7 @@ Here is what I plan when I get a certain amount of subscribers on a YouTube chan
 | 1000 | I will do a Q&A video |
 | 1500 | I will do a setup tour video |
 
-I am unsure what other milestones I will do when I get more subscribers.
+I am unsure what other milestones I will do when I get more subscribers. If you have any ideas, feel free to let me know.
 
 # Why were there years of inactivity?
 I was busy with work, school, and life. I did not have the time or energy to make new videos.
@@ -72,7 +70,7 @@ I was busy with work, school, and life. I did not have the time or energy to mak
 # What are your computer specs and peripherals?
 My old gaming PC
 - CPU: Intel Core i5 3570
-- GPU: GTX 1050 2 GB
+- GPU: Zotac GTX 1050 2 GB
 - RAM: 16 GB of RAM
 - Operating System: Windows 10
 
