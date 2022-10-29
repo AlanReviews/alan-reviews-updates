@@ -2,7 +2,7 @@
 title = "FAQ"
 path = "faq"
 date = "2022-08-31"
-template = "page.html"
+template = "faq.html"
 +++
 Here are my frequently asked questions. These questions address everything I do on my channel. I will add more questions when I get more FAQs. These questions will never be answered in a questions and answer video.
 # What do I review?
