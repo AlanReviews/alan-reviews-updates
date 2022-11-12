@@ -7,7 +7,7 @@ categories = ["Updates"]
 tags = ["xbox", "xbox one", "games"]
 +++
 
-For upcoming and future video reviews, I can get some footage recorded on Xbox One with Xbox One DVR. One problem with recording Xbox One footage with the DVR is that the length is 2 minutes. 
+For upcoming and future video reviews, I can get some footage recorded on Xbox One with Xbox One DVR. One problem with recording Xbox One footage with the DVR is that the length is 2 minutes. The resolution of the videos can be 720p or 1080p.
 
 <!-- more -->
 
