@@ -24,7 +24,7 @@ The rating system measures my enjoyment and quality of a product. Here is my rat
 | 8 | Great |
 | 7 | Fine, good |
 | 6 | Ok, average |
-| 5 | Mediocre |
+| 5 | Mediocre or having mixed feelings |
 | 4 | Underwhelming |
 | 3 | Bad |
 | 2 | Terrible |
