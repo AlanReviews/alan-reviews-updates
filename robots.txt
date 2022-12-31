@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alanreviews.github.io/alan-reviews-updates/sitemap.xml
