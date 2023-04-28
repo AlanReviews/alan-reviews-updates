@@ -7,7 +7,7 @@ categories = ["Updates"]
 tags = ["updates", "star wars"]
 +++
 
-In this update, I will be discussing some changes made to the reviews and requests list, LEGO Star Wars Force Awakens, and LEGO Star Wars The Skywalker Saga.
+In this update, I will be discussing some changes made to the reviews and requests list, LEGO Star Wars Force Awakens, LEGO Star Wars The Skywalker Saga, and Star Wars Jedi Survivor.
 
 <!-- more -->
 
@@ -31,3 +31,5 @@ Here is my plan:
 3. Record LEGO Star Wars The Skywalker Saga gameplay
 4. Edit the video
 5. Release the video
+
+For Star Wars Jedi Survivor, I will be taking a look at it after I review Jedi Fallen Order. I do not have an anticipated date to release the video.
