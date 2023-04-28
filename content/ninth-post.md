@@ -3,7 +3,7 @@ title = "Welcome To My Blog!"
 date = 2022-09-02
 
 [taxonomies]
-categories = [""]
+categories = ["welcome"]
 tags = ["welcome"]
 +++
 
