@@ -34,11 +34,13 @@ The rating system measures my enjoyment and quality of a product. Here is my rat
 
 # What is your criteria if something will get reviewed?
 First, I have to perform research to see if there is something I can talk about in the product. If there is nothing to talk about, I will not make a review.
-For LEGOs, tech, and video games, I test the product to see if there are things I can talk about it. Once I found some talking points during the test, I will accept the product for review. If I cannot find any talking points, I  will not make a video review. For video games, I test them on my computer to ensure I can run the game at 1080p and 30 to 60 frames per second or better.
+For LEGOs, tech, and video games, I test the product to see if there are things I can talk about it. Once I found some talking points during the test, I will accept the product for review. If I cannot find any talking points, I  will not make a video review. For video games, I test them on my computer to ensure I can run the game at 1080p and 30 to 60 frames per second or higher.
 
-There are some LEGO sets, video games, and technologies that I refuse to review. I explained why under the denial reason section in my [Review and Requests List.](https://docs.google.com/spreadsheets/d/e/2PACX-1vSWIyo2ktAkKEQqLVwAdy3DvQLO9YzbPntU65-13nfNvZa-d5ohtd5lHEiijEz_erW8qeKwlS7wuoYW/pubhtml)
+There are some LEGO sets, video games, and technologies that I refuse to review. I explained why under the denial reason section in my [Review and Requests List.](https://docs.google.com/spreadsheets/d/e/2PACX-1vSWIyo2ktAkKEQqLVwAdy3DvQLO9YzbPntU65-13nfNvZa-d5ohtd5lHEiijEz_erW8qeKwlS7wuoYW/pubhtml). 
 
-For a LEGO set, video game, or technology to get a maybe, I have a hesitant feeling to make a video review on it.
+I cannot work with games I find boring or challenging. I get nothing out of boring games. It is difficult to make a video reviews on games that are challenging.
+
+For a LEGO set, video game, or technology to get a "maybe", I have a hesitant feeling to make a video review on it.
 
 # Comment Rules
 1. Be respectful
@@ -46,6 +48,7 @@ For a LEGO set, video game, or technology to get a maybe, I have a hesitant feel
 3. No advertising
 4. No swearing
 5. Follow YouTube terms of service and community guidelines.
+6. Do not use my videos as an excuse to harass developers and people
 
 If you break the rules, you will be warned. Then, muted, or hidden for repeated offences. I will not do hidden user appeals.
 
@@ -65,7 +68,7 @@ Here is what I plan when I get a certain amount of subscribers on a YouTube chan
 I am unsure what other milestones I will do when I get more subscribers. If you have any ideas, feel free to let me know.
 
 # Why were there years of inactivity?
-I was busy with work, school, and life. I did not have the time or energy to make new videos.
+I was busy with work, school, and life. I did not have the time or energy to make new videos. In addition, I did not have a powerful computer to edit videos.
 
 # What are your computer specs and peripherals?
 My old gaming PC
@@ -75,7 +78,7 @@ My old gaming PC
 - Operating System: Windows 10
 
 My peripherals
-- Mouse: SteelSeries Rival Optical Mouse, a Microsoft USB mouse, a PS/2 optical mouse
+- Mouse: a Microsoft USB mouse, a PS/2 optical mouse
 - Keyboard: Corsair K70 Lux, various keyboards
 - Microphone: Blue Snowball iCE
 - Headset: Microsoft Lifechat Headset
