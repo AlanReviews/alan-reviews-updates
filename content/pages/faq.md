@@ -71,14 +71,15 @@ I am unsure what other milestones I will do when I get more subscribers. If you 
 I was busy with work, school, and life. I did not have the time or energy to make new videos. In addition, I did not have a powerful computer to edit videos.
 
 # What are your computer specs and peripherals?
-My old gaming PC
-- CPU: Intel Core i5 3570
-- GPU: Zotac GTX 1050 2 GB
-- RAM: 16 GB of RAM
-- Operating System: Windows 10
+My current gaming PC
+- CPU: Intel Core i7-9700K
+- GPU: ASUS Tuf GTX 1660 Ti 6 GB VRAM
+- RAM: 32 GB of RAM
+- Hard drive: 1 TB SSD
+- Operating System: Pop!_OS 22.04
 
 My peripherals
-- Mouse: a Microsoft USB mouse, a PS/2 optical mouse
-- Keyboard: Corsair K70 Lux, various keyboards
+- Mouse: Lenovo Legion M200 RGB Gaming Mouse
+- Keyboard: Corsair K70 Lux
 - Microphone: Blue Snowball iCE
-- Headset: Microsoft Lifechat Headset
+- Headsets: Microsoft Lifechat Headset, Anker Soundcore Q30, Jabra Evolve
