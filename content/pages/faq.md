@@ -29,7 +29,7 @@ The rating system measures my enjoyment and quality of a product. Here is my rat
 | 3 | Bad |
 | 2 | Terrible |
 | 1 | Boring |
-| 0 | Loath, despise. I hope no video review gets this score. Has no redeeeming qualities. |
+| 0 | Loath, despise. I hope no video review gets this score. Has no redeeming qualities. |
 
 
 # What is your criteria if something will get reviewed?
@@ -40,7 +40,10 @@ There are some LEGO sets, video games, and technologies that I refuse to review.
 
 I cannot work with games I find boring or challenging. I get nothing out of boring games. It is difficult to make a video reviews on games that are challenging.
 
-For a LEGO set, video game, or technology to get a "maybe", I have a hesitant feeling to make a video review on it.
+For a LEGO set, video game, or technology to get a "maybe", I feel hesitant or unsure to make a video on it.
+
+# When is the next review video or short video coming out?
+I do not have specific dates on when a video gets released unless I make an announcement. I do not have a lot of time to work on YouTube videos.
 
 # Comment Rules
 1. Be respectful

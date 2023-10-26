@@ -11,3 +11,7 @@ Since I was a child, I have an interest in LEGOS, video games, and technologies.
 I like playing all kinds of games. I am interested in trying out new things.
 
 In addition, I am interested in programming. I can program in C/C++, Java, JavaScript, Python, R, and Rust. I created this website with the Zola template engine.
+
+Here is my YouTube trailer:
+
+{{ youtube(id="eZPGF8koom8") }}
