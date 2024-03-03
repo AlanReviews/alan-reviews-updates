@@ -11,4 +11,4 @@ I am planning to review Stardew Valley for an anticipated review request. So far
 
 <!-- more -->
 
-I am enjoying Stardew Valley. I am learning a lot about the game. I enjoyed interacting with members of the Stardew Valley Discord server. They are helpful and great. Currently, the script is 7 pages long. I haven't finished the script yet. I am still playing the game and writing the script.
+I am enjoying Stardew Valley. I am learning a lot about the game. I enjoyed interacting with members of the Stardew Valley Discord server. They are helpful and great. Currently, the script is 10 pages long. I haven't finished the script yet. I am still playing the game and writing the script. I am reading farming books to get an idea on how farming works and its history. With this knowledge, I can understand Stardew Valley's gameplay and world better. I created the introduction of the video and the thumbnail.
