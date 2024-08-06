@@ -1,11 +1,10 @@
 # The URL the site will be built for
 base_url = "https://alanreviews.github.io/alan-reviews-updates/"
-generate_rss = true
+generate_feeds = true
 compile_sass = true
 
 title = "Alan Reviews Updates"
 description = "The place where you get updates on my YouTube channel"
-highlight_code = true
 
 taxonomies = [
     {name = "categories", rss = true, paginate_by=5},
