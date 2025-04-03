@@ -1,8 +1,8 @@
-<div {% if class %}class="{{class}}"{% endif %}>
-    <iframe
-        src="https://www.youtube.com/embed/{{id}}{% if autoplay %}?autoplay=1{% endif %}"
-        webkitallowfullscreen
-        mozallowfullscreen
+<div class="{{ class | default(value="video-container") }}">
+    <iframe width="560" height="315"
+        src="https://www.youtube.com/embed/{{ id }}"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen>
     </iframe>
 </div>
