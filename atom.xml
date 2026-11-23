@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Alan Reviews Updates</title>
+    <subtitle>The place where you get updates on my YouTube channel</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://alanreviews.github.io/alan-reviews-updates/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://alanreviews.github.io/alan-reviews-updates/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-03-31T00:00:00+00:00</updated>
+    <id>https://alanreviews.github.io/alan-reviews-updates/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Introducing Short Reviews</title>
+        <published>2025-03-31T00:00:00+00:00</published>
+        <updated>2025-03-31T00:00:00+00:00</updated>
+        
+        <author>
+          <name>Unknown</name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://alanreviews.github.io/alan-reviews-updates/shorts/"/>
+        <id>https://alanreviews.github.io/alan-reviews-updates/shorts/</id>
+        
+        <summary type="html">&lt;div class=&quot;optional-css-class&quot;&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot;
+        src=&quot;https://www.youtube.com/embed/DlVcomTXTB4&quot;
+        frameborder=&quot;0&quot;
+        allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot;
+        allowfullscreen&gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;p&gt;I create short reviews on my YouTube channel, such as my &lt;a rel=&quot;external&quot; href=&quot;https://youtube.com/shorts/DlVcomTXTB4?si=HlSpkp1cOmLfWVf6&quot;&gt;Android Puzzlebot review&lt;/a&gt;. I use the short-form video format to review LEGO sets and games that don’t require extensive discussion, allowing me to record in a vertical format. My YouTube shorts are 1 to 3 minutes long. Examples are small LEGO sets and short video games. This approach enables me to produce and share content more efficiently.&lt;/p&gt;
+&lt;p&gt;Of course, not every video will follow this format. I’m currently working on some new videos, so stay tuned! I hope you enjoy my short reviews. Let me know what you think about them!&lt;/p&gt;</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Star Wars Updates</title>
+        <published>2023-10-26T00:00:00+00:00</published>
+        <updated>2023-10-26T00:00:00+00:00</updated>
+        
+        <author>
+          <name>Unknown</name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://alanreviews.github.io/alan-reviews-updates/star-wars-update/"/>
+        <id>https://alanreviews.github.io/alan-reviews-updates/star-wars-update/</id>
+        
+        <summary type="html">&lt;p&gt;In this update, I will be discussing some changes made to the reviews and requests list, LEGO Star Wars Force Awakens, LEGO Star Wars The Skywalker Saga, and Star Wars Jedi Survivor.&lt;/p&gt;</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Infrequent Uploads</title>
+        <published>2022-12-31T00:00:00+00:00</published>
+        <updated>2022-12-31T00:00:00+00:00</updated>
+        
+        <author>
+          <name>Unknown</name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://alanreviews.github.io/alan-reviews-updates/infrequent-uploads/"/>
+        <id>https://alanreviews.github.io/alan-reviews-updates/infrequent-uploads/</id>
+        
+        <summary type="html">&lt;p&gt;Between January to April, I will be busy. There will be infrequent uploads. Eventually, I will fulfill the review requests and some planned reviews.&lt;/p&gt;</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Recording Footage on Xbox One</title>
+        <published>2022-09-28T00:00:00+00:00</published>
+        <updated>2022-09-28T00:00:00+00:00</updated>
+        
+        <author>
+          <name>Unknown</name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://alanreviews.github.io/alan-reviews-updates/xbox-one-update/"/>
+        <id>https://alanreviews.github.io/alan-reviews-updates/xbox-one-update/</id>
+        
+        <summary type="html">&lt;p&gt;For upcoming and future video reviews, I can get some footage recorded on Xbox One with Xbox One DVR. One problem with recording Xbox One footage with the DVR is that the length is 2 minutes. The resolution of the videos can be 720p or 1080p.&lt;/p&gt;</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Plan for LEGO Star Wars The Complete Saga Review</title>
+        <published>2022-09-03T00:00:00+00:00</published>
+        <updated>2022-09-03T00:00:00+00:00</updated>
+        
+        <author>
+          <name>Unknown</name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://alanreviews.github.io/alan-reviews-updates/eleventh-post/"/>
+        <id>https://alanreviews.github.io/alan-reviews-updates/eleventh-post/</id>
+        
+        <summary type="html">&lt;p&gt;I will do a review on LEGO Star Wars The Complete Saga. I wishlisted the PC version on Steam. I have a copy of the Xbox 360 version.&lt;/p&gt;</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Welcome To My Blog!</title>
+        <published>2022-09-02T00:00:00+00:00</published>
+        <updated>2022-09-02T00:00:00+00:00</updated>
+        
+        <author>
+          <name>Unknown</name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://alanreviews.github.io/alan-reviews-updates/ninth-post/"/>
+        <id>https://alanreviews.github.io/alan-reviews-updates/ninth-post/</id>
+        
+        <summary type="html">&lt;p&gt;Welcome to my blog! I created this blog to provide updates on my YouTube channel.&lt;/p&gt;</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>FAQ</title>
+        <published>2022-08-31T00:00:00+00:00</published>
+        <updated>2022-08-31T00:00:00+00:00</updated>
+        
+        <author>
+          <name>Unknown</name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://alanreviews.github.io/alan-reviews-updates/faq/"/>
+        <id>https://alanreviews.github.io/alan-reviews-updates/faq/</id>
+        
+        <content type="html" xml:base="https://alanreviews.github.io/alan-reviews-updates/faq/">&lt;p&gt;Here are my frequently asked questions. These questions address everything I do on my channel. I will add more questions when I get more FAQs. These questions will never be answered in a questions and answer video.&lt;/p&gt;
+&lt;h1 id=&quot;what-do-i-review&quot;&gt;What do I review?&lt;/h1&gt;
+&lt;p&gt;I review LEGOs, technologies, and video games on my YouTube channel. In addition, I wrote a few reviews on places I visited on Google Maps.&lt;/p&gt;
+&lt;p&gt;If the game achieves a review score of 6 or higher, I will review the mods. Mods enhance and expand games. Mods should not fix games or attempt to manipulate my score system. Mods should not make games better.&lt;/p&gt;
+&lt;p&gt;I will use mods if I need to change the game settings such as changing the field of view or getting better textures.&lt;/p&gt;
+&lt;p&gt;I will review expansion packs and DLC content if the game stands on its own and there is something to review (achieves a score of 6 or higher). The only exception is standalone expansion packs.&lt;/p&gt;
+&lt;h1 id=&quot;will-i-review-remakes-and-remasters-of-video-games&quot;&gt;Will I review remakes and remasters of video games?&lt;/h1&gt;
+&lt;p&gt;In most cases, no. I do not review remakes and remasters of video games. I feel like the process of making the review will be repetitive. However, I will make some exceptions. Here&#39;s a list of exceptions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The game is available in a remake or remaster. It is difficult to access the original version.&lt;/li&gt;
+&lt;li&gt;The remake game has many differences from the original game.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&quot;what-is-the-10-rating-scale-about&quot;&gt;What is the 10 rating scale about?&lt;/h1&gt;
+&lt;p&gt;The rating system measures my enjoyment and quality of a product. Here is my rating system in a table format&lt;/p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Rating&lt;/th&gt;&lt;th&gt;Meaning&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;Perfect, Outstanding. A must have. Has few or no negative qualities&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;Amazing&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;8&lt;/td&gt;&lt;td&gt;Great&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;Fine, good&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;Ok, average&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;Mediocre or having mixed feelings&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;Underwhelming&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;Bad&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;Terrible&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;Boring&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;Loath, despise. I hope no video review gets this score. Has no redeeming qualities.&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h1 id=&quot;what-is-your-criteria-if-something-will-get-reviewed&quot;&gt;What is your criteria if something will get reviewed?&lt;/h1&gt;
+&lt;p&gt;First, I have to perform research to see if there is something I can talk about in the product. If there is nothing to talk about, I will not make a review.
+For LEGOs, tech, and video games, I test the product to see if there are things I can talk about it. Once I found some talking points during the test, I will accept the product for review. If I cannot find any talking points, I  will not make a video review. For video games, I test them on my computer to ensure I can run the game at 1080p and 30 to 60 frames per second or higher.&lt;/p&gt;
+&lt;p&gt;There are some LEGO sets, video games, and technologies that I refuse to review. I explained why under the denial reason section in my &lt;a rel=&quot;external&quot; href=&quot;https://docs.google.com/spreadsheets/d/e/2PACX-1vSWIyo2ktAkKEQqLVwAdy3DvQLO9YzbPntU65-13nfNvZa-d5ohtd5lHEiijEz_erW8qeKwlS7wuoYW/pubhtml&quot;&gt;Review and Requests List.&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I cannot work with games I find boring or challenging. I get nothing out of boring games. It is difficult to make a video reviews on games that are challenging.&lt;/p&gt;
+&lt;p&gt;For a LEGO set, video game, or technology to get a &quot;maybe&quot;, I feel hesitant or unsure to make a video on it.&lt;/p&gt;
+&lt;h1 id=&quot;when-is-the-next-review-video-or-short-video-coming-out&quot;&gt;When is the next review video or short video coming out?&lt;/h1&gt;
+&lt;p&gt;I do not have specific dates on when a video gets released unless I make an announcement. I do not have a lot of time to work on YouTube videos.&lt;/p&gt;
+&lt;h1 id=&quot;comment-rules&quot;&gt;Comment Rules&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Be respectful&lt;/li&gt;
+&lt;li&gt;No political and controversial discussions&lt;/li&gt;
+&lt;li&gt;No advertising&lt;/li&gt;
+&lt;li&gt;No swearing&lt;/li&gt;
+&lt;li&gt;Follow YouTube terms of service and community guidelines.&lt;/li&gt;
+&lt;li&gt;Do not use my videos as an excuse to harass developers and people&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;If you break the rules, you will be warned. Then, muted, or hidden for repeated offences. I will not do hidden user appeals.&lt;/p&gt;
+&lt;h1 id=&quot;i-have-a-video-suggestion-or-request&quot;&gt;I have a video suggestion or request&lt;/h1&gt;
+&lt;p&gt;FOR REVIEW AND IDEA REQUESTS ONLY: &lt;strong&gt;First&lt;/strong&gt;, check if I already added your video request to my &lt;a rel=&quot;external&quot; href=&quot;https://docs.google.com/spreadsheets/d/e/2PACX-1vSWIyo2ktAkKEQqLVwAdy3DvQLO9YzbPntU65-13nfNvZa-d5ohtd5lHEiijEz_erW8qeKwlS7wuoYW/pubhtml&quot;&gt;Review and Requests List.&lt;/a&gt; If your request is not there, feel free to let me know in a YouTube comment or in my Discord server.&lt;/p&gt;
+&lt;p&gt;Feel free to post your improvement suggestions or video requests in the comments. In addition, post your suggestions in my suggestions channel on my &lt;a rel=&quot;external&quot; href=&quot;https://discord.gg/K9BdChUCMN&quot;&gt;Discord server&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&quot;what-are-my-subscriber-milestones&quot;&gt;What are my subscriber milestones?&lt;/h1&gt;
+&lt;p&gt;Here is what I plan when I get a certain amount of subscribers on a YouTube channel or Instagram.&lt;/p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Followers&lt;/th&gt;&lt;th&gt;Milestone&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;1000&lt;/td&gt;&lt;td&gt;I will do a Q&amp;amp;A video&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;1500&lt;/td&gt;&lt;td&gt;I will do a setup tour video&lt;/td&gt;&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;I am unsure what other milestones I will do when I get more subscribers. If you have any ideas, feel free to let me know.&lt;/p&gt;
+&lt;h1 id=&quot;why-were-there-years-of-inactivity&quot;&gt;Why were there years of inactivity?&lt;/h1&gt;
+&lt;p&gt;I was busy with work, school, and life. I did not have the time or energy to make new videos. In addition, I did not have a powerful computer to edit videos.&lt;/p&gt;
+&lt;h1 id=&quot;what-are-your-computer-specs-and-peripherals&quot;&gt;What are your computer specs and peripherals?&lt;/h1&gt;
+&lt;p&gt;My current gaming PC&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CPU: Intel Core i7-9700K&lt;/li&gt;
+&lt;li&gt;GPU: ASUS Tuf GTX 1660 Ti 6 GB VRAM&lt;/li&gt;
+&lt;li&gt;RAM: 32 GB of RAM&lt;/li&gt;
+&lt;li&gt;Hard drive: 1 TB SSD&lt;/li&gt;
+&lt;li&gt;Operating System: Pop!_OS 22.04&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;My peripherals&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mouse: Lenovo Legion M200 RGB Gaming Mouse&lt;/li&gt;
+&lt;li&gt;Keyboard: Corsair K70 Lux&lt;/li&gt;
+&lt;li&gt;Microphone: Blue Snowball iCE&lt;/li&gt;
+&lt;li&gt;Headsets: Microsoft Lifechat Headset, Anker Soundcore Q30, Jabra Evolve&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        
+    </entry>
+</feed>
