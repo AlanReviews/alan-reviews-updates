@@ -18,7 +18,7 @@ I will review expansion packs and DLC content if the game stands on its own and 
 
 In most cases, no. I do not review remakes and remasters of video games. I feel like the process of making the review will be repetitive. However, I will make some exceptions. Here's a list of exceptions:
 1. The game is available in a remake or remaster. It is difficult to access the original version.
-2. The remake game is different to the original game.
+2. The remake game has many differences from the original game.
 
 # What is the 10 rating scale about?
 The rating system measures my enjoyment and quality of a product. Here is my rating system in a table format
