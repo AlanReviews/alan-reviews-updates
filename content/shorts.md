@@ -7,7 +7,7 @@ categories = ["Updates"]
 tags = ["updates"]
 +++
 
-{{ youtube(id="DlVcomTXTB4", class="optional-css-class", autoplay=false) }}
+{{< youtube id="DlVcomTXTB4" class="optional-css-class" autoplay={false} />}}
 
 I create short reviews on my YouTube channel, such as my [Android Puzzlebot review](https://youtube.com/shorts/DlVcomTXTB4?si=HlSpkp1cOmLfWVf6). I use the short-form video format to review LEGO sets and games that don’t require extensive discussion, allowing me to record in a vertical format. My YouTube shorts are 1 to 3 minutes long. Examples are small LEGO sets and short video games. This approach enables me to produce and share content more efficiently.
 

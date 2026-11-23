@@ -1,0 +1,10 @@
+{% component youtube(id: string, class: string = "video-container", autoplay: bool = false) %}
+<div class="{{ class }}">
+    <iframe width="560" height="315"
+        src="https://www.youtube.com/embed/{{ id }}{% if autoplay %}?autoplay=1{% endif %}"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen>
+    </iframe>
+</div>
+{% endcomponent youtube %}

@@ -14,6 +14,12 @@ I will use mods if I need to change the game settings such as changing the field
 
 I will review expansion packs and DLC content if the game stands on its own and there is something to review (achieves a score of 6 or higher). The only exception is standalone expansion packs.
 
+# Will I review remakes and remasters of video games?
+
+In most cases, no. I do not review remakes and remasters of video games. I feel like the process of making the review will be repetitive. However, I will make some exceptions. Here's a list of exceptions:
+1. The game is available in a remake or remaster. It is difficult to access the original version.
+2. The remake game is different to the original game.
+
 # What is the 10 rating scale about?
 The rating system measures my enjoyment and quality of a product. Here is my rating system in a table format
 
@@ -61,9 +67,9 @@ FOR REVIEW AND IDEA REQUESTS ONLY: **First**, check if I already added your vide
 Feel free to post your improvement suggestions or video requests in the comments. In addition, post your suggestions in my suggestions channel on my [Discord server](https://discord.gg/K9BdChUCMN).
 
 # What are my subscriber milestones?
-Here is what I plan when I get a certain amount of subscribers on a YouTube channel
+Here is what I plan when I get a certain amount of subscribers on a YouTube channel or Instagram.
 
-| Subscribers | Milestone |
+| Followers | Milestone |
 | --- | --- |
 | 1000 | I will do a Q&A video |
 | 1500 | I will do a setup tour video |

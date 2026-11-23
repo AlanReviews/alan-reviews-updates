@@ -1,0 +1,9 @@
+{% component page_title(page: map, @config) %}
+<a href="{{ page.permalink }}">
+    <h2 class="post-title">{{ page.title }}</h2>
+</a>
+<p class="post-meta">Posted by
+    <a href="#">{{ config.extra.author }}</a>
+    on {{ page.date | date(format="%e %B %Y") }}
+</p>
+{% endcomponent %}
